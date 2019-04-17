@@ -14,7 +14,7 @@ In this project, we developed a real-time parking spot detection system that use
 
 ## Results:
 
-These two videos show primilinary results of our work:
+These two videos show preliminary results of our work:
 
 [![Moving Camera](http://img.youtube.com/vi/exzxPoTZhBI/0.jpg)](http://www.youtube.com/watch?v=exzxPoTZhBI)
 
